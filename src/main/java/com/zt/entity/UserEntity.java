@@ -8,4 +8,5 @@ package com.zt.entity;
 public class UserEntity {
     private String username;
     private String password;
+    private int age;
 }
